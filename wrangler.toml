@@ -1,7 +1,5 @@
 name = "finvella"
+main = "dist/_worker.js"
 compatibility_date = "2025-11-22"
 
-# **ADD THIS LINE**
-main = "./dist/worker.js" 
-
-assets = { directory = "dist" }
+assets = { directory = "./dist" }
