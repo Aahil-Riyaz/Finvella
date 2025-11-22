@@ -1,9 +1,4 @@
 name = "finvella"
 compatibility_date = "2025-11-22"
 
-# point to your worker entry file
-main = "src/worker.ts"
-
 assets = { directory = "dist" }
-
-# remove any [vars] with the key here. We'll set secret via Cloudflare UI.
