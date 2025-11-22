@@ -1,7 +1,7 @@
 name = "finvella"
 compatibility_date = "2025-11-22"
 
-# Worker entry point file
-main = "./dist/index.html" # **<--- Add this line**
+# **ADD THIS LINE**
+main = "./dist/worker.js" 
 
 assets = { directory = "dist" }
