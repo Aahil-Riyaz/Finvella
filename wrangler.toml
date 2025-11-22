@@ -2,6 +2,6 @@ name = "finvella"
 compatibility_date = "2025-11-22"
 
 # Worker entry point file
-main = "./dist/index.tsx" # **<--- Add this line**
+main = "./dist/index.html" # **<--- Add this line**
 
 assets = { directory = "dist" }
