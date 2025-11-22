@@ -1,5 +1,4 @@
 name = "finvella"
-main = "node_modules/wrangler/templates/static-worker.js"
 compatibility_date = "2025-11-22"
 
-assets = { directory = "./dist" }
+assets = { directory = "dist" }
